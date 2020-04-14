@@ -1,0 +1,64 @@
+*{
+	padding:5px;
+	margin:0px;
+}
+
+h1{
+	font-family:"Arial";
+	color: #F310C0;
+	size: 5em;
+}
+p{
+	font-family:"Arial";
+	font-size: 1em;
+	font-style:oblique;
+	color: #0B1285;
+	text-align:justify;
+	
+}
+body{
+	background:#ECE0F3;
+}
+h2{
+	font-family:"Arial";
+	color: #350224;
+	size: 5em;
+}
+li{
+	font-family:"Arial";
+	color: ##350224;
+	size: 5em;
+}
+ol{
+	font-family:"Arial";
+	color: ##350224;
+	size: 5em;
+}
+
+dl{
+	font-family:"Arial";
+	font-size: 1em;
+	font-style:oblique;
+	color: #0B1285;
+	}
+
+blockquote{
+	font-family:"Arial";
+	font-size: 1em;
+	text-align: right;
+	font-style: italic;
+	color: red;
+	}
+i{
+	font-family:"Arial";
+	font-size: 1em;
+	font-style: italic;
+	color: red;
+}
+
+a{
+	font-family:"Arial";
+	font-size: 1em;
+	font-style: italic;
+	color: red;
+}
